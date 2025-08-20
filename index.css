@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&family=Playwrite+MX+Guides&display=swap');
+
+button{
+font-family: "Verdana, Geneva, Tahoma, sans-serif", cursive;
+}
+
+
+body{
+background-color: springgreen;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+
+}
+
+.calculatur{
+background-color: brown;
+width: 179px;
+padding: 5px;
+text-align: center;
+border-radius: 50% ;
+}
+input{
+height: 20px;
+font-size: 10px;
+margin-bottom: 10px;
+text-align: right;
+}
+
+button{
+font-family: "Verdana, Geneva, Tahoma, sans-serif", cursive;
+font-weight: 700px;
+margin: 2px;
+background-color:blue;
+border: none;
+background-color: white;
+border-radius: 10px;
+cursor: pointer;
+}
+button :active{
+
+background-color: black;
+
+}
